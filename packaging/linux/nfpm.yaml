@@ -20,7 +20,7 @@ description: |-
   Install, update and launch the Craft App Suite.
   ArtCraft Launcher lists PhotoCraft, LightCraft, FilmCraft, DesignCraft,
   VectorCraft, PdfCraft, EffectCraft, WordCraft, DeckCraft, GridCraft, CADCraft,
-  SoundCraft and FigCraft, installs the right build for this computer and keeps
+  SoundCraft, FigCraft and NoteCraft, installs the right build for this computer and keeps
   them up to date from GitHub releases. It can live in the system tray.
 
 # The binary links only glibc and libgcc_s directly. Windowing (X11/Wayland, xkbcommon) and the

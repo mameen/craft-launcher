@@ -1,4 +1,4 @@
-# Brazilian Portuguese (pt-BR) catalog for ArtCraft Launcher.
+﻿# Brazilian Portuguese (pt-BR) catalog for ArtCraft Launcher.
 # Format: context<TAB>source<TAB>translation
 # Empty context = plain UI string (tl!, t).
 # @id = command-id keyed (tr_id).
@@ -166,6 +166,7 @@ solidcraft	Parametric 3D CAD	CAD 3D paramétrico
 cadcraft	Computer-aided design and drafting	Desenho técnico e projeto assistido por computador (CAD)
 soundcraft	Recording, editing and mixing audio	Gravação, edição e mixagem de áudio
 figcraft	Interface design and prototyping	Design de interfaces e prototipagem
+notecraft	Local-first notes with canvas pages and OneNote import	Notas locais com páginas canvas e importação do OneNote
 
 # Contextual: month abbreviations for date rendering
 month	Jan	jan.
@@ -372,14 +373,5 @@ filter	Installed	Instalados
 	Last updated: {date}	Última atualização: {date}
 column	Version	Versão
 column	Author	Autor
-	Choose version	Escolher versão
-	latest {version}	mais recente {version}
-	{version} (latest release)	{version} (último lançamento)
-	Launcher version	Versão do inicializador
-	Nightly	Versão noturna
-	Nightly (none published yet)	Versão noturna (ainda não publicada)
-	Install version {version}	Instalar a versão {version}
-	Download selected version	Baixar a versão selecionada
-	Older launcher versions require a manual reinstall.	Versões antigas do inicializador exigem reinstalação manual.
-	Your files may not open in older versions.	Seus arquivos podem não abrir em versões antigas.
-	Enable automatic installs in Settings to follow new nightly builds.	Ative as instalações automáticas nas Configurações para receber as novas versões noturnas.
+
+
