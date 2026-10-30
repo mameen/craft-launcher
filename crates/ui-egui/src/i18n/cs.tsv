@@ -1,4 +1,4 @@
-﻿# Czech (cs) catalog for ArtCraft Launcher.
+# Czech (cs) catalog for ArtCraft Launcher.
 # Format: context<TAB>source<TAB>translation
 # Empty context = plain UI string (tl!, t). @id = command-id keyed. @plural = one|few|other.
 # @msg = status/error message template. Other context = disambiguation for tr_ctx.
@@ -352,6 +352,3 @@ filter	Installed	Nainstalováno
 	Last updated: {date}	Naposledy aktualizováno: {date}
 column	Version	Verze
 column	Author	Autor
-
-
-notecraft	Local-first notes with canvas pages and OneNote import	Lokální poznámky se stránkami plátna a importem OneNote

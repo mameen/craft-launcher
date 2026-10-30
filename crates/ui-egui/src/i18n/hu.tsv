@@ -1,4 +1,4 @@
-﻿# Hungarian (hu) catalog for ArtCraft Launcher.
+# Hungarian (hu) catalog for ArtCraft Launcher.
 # Format: context<TAB>source<TAB>translation
 # Empty context = plain UI string (tl!, t).
 # @id = command-id keyed (tr_id).
@@ -178,7 +178,6 @@ solidcraft	Parametric 3D CAD	Paraméteres 3D CAD
 cadcraft	Computer-aided design and drafting	Számítógépes tervezés és műszaki rajz
 soundcraft	Recording, editing and mixing audio	Hangrögzítés, hangszerkesztés és keverés
 figcraft	Interface design and prototyping	Felülettervezés és prototípus-készítés
-notecraft	Local-first notes with canvas pages and OneNote import	Helyi megjegyzések vászonoldalakkal és OneNote-importálás
 
 # Contextual: month abbreviations for date rendering
 month	Jan	jan.
@@ -386,5 +385,3 @@ filter	Installed	Telepítve
 	Last updated: {date}	Utoljára frissítve: {date}
 column	Version	Verzió
 column	Author	Szerző
-
-

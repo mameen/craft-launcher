@@ -1,4 +1,4 @@
-﻿# Spanish (es) catalog for ArtCraft Launcher.
+# Spanish (es) catalog for ArtCraft Launcher.
 # Format: context<TAB>source<TAB>translation
 # Empty context = plain UI string (tl!, t).
 # @id = command-id keyed (tr_id).
@@ -173,7 +173,6 @@ solidcraft	Parametric 3D CAD	CAD 3D paramétrico
 cadcraft	Computer-aided design and drafting	CAD: diseño y dibujo técnico
 soundcraft	Recording, editing and mixing audio	Grabación, edición y mezcla de audio
 figcraft	Interface design and prototyping	Diseño de interfaces y prototipos
-notecraft	Local-first notes with canvas pages and OneNote import	Notas locales con páginas de lienzo e importación de OneNote
 month	Jan	ene.
 month	Feb	feb.
 month	Mar	mar.
@@ -366,5 +365,3 @@ filter	Installed	Instaladas
 	Last updated: {date}	Última actualización: {date}
 column	Version	Versión
 column	Author	Autor
-
-

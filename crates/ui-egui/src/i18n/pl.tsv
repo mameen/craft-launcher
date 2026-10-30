@@ -1,4 +1,4 @@
-﻿# Polish (pl) catalog for ArtCraft Launcher.
+# Polish (pl) catalog for ArtCraft Launcher.
 # Format: context<TAB>source<TAB>translation
 # Empty context = plain UI string (tl!, t).
 # @id = command-id keyed (tr_id).
@@ -179,7 +179,6 @@ solidcraft	Parametric 3D CAD	Parametryczny CAD 3D
 cadcraft	Computer-aided design and drafting	Projektowanie i kreślenie wspomagane komputerowo
 soundcraft	Recording, editing and mixing audio	Nagrywanie, edycja i miksowanie dźwięku
 figcraft	Interface design and prototyping	Projektowanie interfejsów i prototypowanie
-notecraft	Local-first notes with canvas pages and OneNote import	Notatki lokalne ze stronami kanwy i importem OneNote
 
 # Contextual: month abbreviations for date rendering
 month	Jan	sty
@@ -387,5 +386,3 @@ filter	Installed	Zainstalowane
 	Last updated: {date}	Ostatnia aktualizacja: {date}
 column	Version	Wersja
 column	Author	Autor
-
-

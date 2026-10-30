@@ -1,4 +1,4 @@
-﻿# Japanese (ja) catalog for ArtCraft Launcher.
+# Japanese (ja) catalog for ArtCraft Launcher.
 # Format: context<TAB>source<TAB>translation
 # Empty context = plain UI string (tl!, t).
 # @id = command-id keyed (tr_id).
@@ -180,7 +180,6 @@ solidcraft	Parametric 3D CAD	パラメトリック3D CAD
 cadcraft	Computer-aided design and drafting	コンピューター支援設計と製図
 soundcraft	Recording, editing and mixing audio	オーディオの録音、編集、ミックス
 figcraft	Interface design and prototyping	インターフェースデザインとプロトタイピング
-notecraft	Local-first notes with canvas pages and OneNote import	????????? OneNote ???????????????
 
 # Contextual: month abbreviations for date rendering
 month	Jan	1月
@@ -388,5 +387,3 @@ filter	Installed	インストール済み
 	Last updated: {date}	最終更新: {date}
 column	Version	バージョン
 column	Author	作者
-
-
