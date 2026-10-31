@@ -180,7 +180,6 @@ pub const SUITE: [CraftApp; 15] = [
         bundle: Some("notecraft"),
         former_bundles: &[],
         site: None,
-        installs_on_mac: false,
         ..app(
             "notecraft",
             "NoteCraft",
